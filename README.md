@@ -4,7 +4,7 @@ Fashion Finder is the final project of Team RTFD,M (Read the Frackin' Docs, Man)
 The team created a beautiful, simple-to-use and responsive application in React.JS to assist designers with showcasing their fashion lines & styles. The approach for the project is as follows:
 - Objective: Create an ecommerce app with Tinder-like functionality to see and be inspired by fashion looks, allowing a user to "purchase" the look(s) they want through a payment gateway.
 - Code ownership across the team throughout the project.
-- Become thoroughly familiar with React and Firebase.
+- Become thoroughly familiar with React and Firebase, the current lead front-end technology and an exciting NoSQL database service respectively.
 - Maintain best Agile Practices throughout the project.
 
 <p align="center"><a href="https://fashion-finder-prod.firebaseapp.com/">Visit Fashion Finder</a></p>
@@ -12,6 +12,16 @@ The team created a beautiful, simple-to-use and responsive application in React.
 [![Maintainability](https://api.codeclimate.com/v1/badges/b766c7ba67ddad5b94a2/maintainability)](https://codeclimate.com/github/rtfdm/fashion-finder/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/b766c7ba67ddad5b94a2/test_coverage)](https://codeclimate.com/github/rtfdm/fashion-finder/test_coverage)
 <br />
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+
+## Screenshots
+### Main view (randomized image)
+[![Main view](https://i.imgur.com/TDjwhxB.png)](https://i.imgur.com/TDjwhxB.png)
+
+### Look info view
+[![Look info view](https://i.imgur.com/6UevgmF.png)](https://i.imgur.com/6UevgmF.png)
+
+### Lookbook (basket) view
+[![Lookbook view](https://i.imgur.com/2bOxSKp.png)](https://i.imgur.com/2bOxSKp.png)
 
 ## Getting Started
 
